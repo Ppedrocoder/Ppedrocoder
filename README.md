@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">👋 Olá! Eu sou Pedro Ricardo</h1>
 
-<!--
-**Ppedrocoder/Ppedrocoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Desenvolvedor Fullstack | 🚀 Apaixonado por tecnologia
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mim
+- 🎓 4º período de TADS no IFRN-CNAT  
+- 💻 Foco em desenvolvimento Fullstack  
+- ⚽ Joguei futebol a vida inteira  
+- 🚀 Sempre buscando evoluir e aprender novas tecnologias  
+
+---
+
+### 🚀 Tecnologias
+
+#### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,angular,tailwind" />
+</p>
+
+- JavaScript  
+- TypeScript  
+- Angular  
+- Tailwind CSS  
+
+#### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,django,postgres" />
+</p>
+
+- Spring Boot  
+- Django REST  
+- PostgreSQL  
+
+#### 🛠️ Ferramentas
+<p>
+<img src="https://skillicons.dev/icons?i=git,docker,postman" />
+</p>
+
+- Git  
+- Docker  
+- Postman  
+
+---
+
+### 📊 GitHub Stats
+<p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 📫 Contato
+- 📧 Email: [seu email]
+- 💼 LinkedIn: [seu linkedin]
