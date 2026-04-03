@@ -1,7 +1,8 @@
 ### 🧠 Sobre mim
 - 🎓 4º período de TADS no IFRN-CNAT  
-- 💻 Foco em desenvolvimento Fullstack  
-- ⚽ Joguei futebol a vida inteira  
+- 💻 Foco em desenvolvimento Fullstack
+- 🏖️ Potiguar de coração  
+- ⚽ Apaixonado por futebol, torcedor do América-RN e Vasco da Gama
 - 🚀 Sempre buscando evoluir e aprender novas tecnologias  
 
 ---
