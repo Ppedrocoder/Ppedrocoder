@@ -46,14 +46,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ppedrocoder&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ppedrocoder&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ### 📫 Contato
-- 📧 Email: [seu email]
-- 💼 LinkedIn: [seu linkedin]
+- 📧 Email: [rpedroricardo87@gmail.com]
+- 💼 LinkedIn: [www.linkedin.com/in/pedro-ricardo-gomes]
