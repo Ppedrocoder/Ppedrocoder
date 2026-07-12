@@ -11,7 +11,7 @@
 
 #### 🎨 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,angular,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,angular,react,tailwind" />
 </p>
 
 #### ⚙️ Backend
