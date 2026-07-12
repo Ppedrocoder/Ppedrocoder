@@ -1,5 +1,6 @@
 ### 🧠 Sobre mim
-- 🎓 4º período de TADS no IFRN-CNAT  
+- 🎓 4º período de TADS no IFRN-CNAT
+- 💼 Desenvolvedor Frontend do MEC na PNP (Plataforma Nilo Peçanha)
 - 💻 Foco em desenvolvimento Fullstack
 - 🏖️ Potiguar de coração  
 - ⚽ Apaixonado por futebol, torcedor do América-RN e Vasco da Gama
